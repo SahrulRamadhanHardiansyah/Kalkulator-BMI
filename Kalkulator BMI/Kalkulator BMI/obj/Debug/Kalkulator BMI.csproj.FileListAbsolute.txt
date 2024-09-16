@@ -1,0 +1,7 @@
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\bin\Debug\Kalkulator BMI.exe.config
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\bin\Debug\Kalkulator BMI.exe
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\bin\Debug\Kalkulator BMI.pdb
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\obj\Debug\Kalkulator BMI.csproj.AssemblyReference.cache
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\obj\Debug\Kalkulator BMI.csproj.CoreCompileInputs.cache
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\obj\Debug\Kalkulator BMI.exe
+C:\Users\Sahrul\source\repos\Kalkulator BMI\Kalkulator BMI\obj\Debug\Kalkulator BMI.pdb
